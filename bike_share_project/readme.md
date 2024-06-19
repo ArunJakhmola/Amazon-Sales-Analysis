@@ -1,8 +1,8 @@
-# Toma Bike Share Project
+# Toman Bike Share Project
 
 ## Project Overview
 
-The **Toma Bike Share Project** involves the analysis of bike share data for the years 2021 and 2022. This project utilizes SQL for data extraction and transformation, and Power BI for data visualization. The data is stored in three CSV files and is analyzed to gain insights into usage patterns, financial performance, and other key metrics.
+The **Toman Bike Share Project** involves the analysis of bike share data for the years 2021 and 2022. This project utilizes SQL for data extraction and transformation, and Power BI for data visualization. The data is stored in three CSV files and is analyzed to gain insights into usage patterns, financial performance, and other key metrics.
 
 ## Data Sources
 
