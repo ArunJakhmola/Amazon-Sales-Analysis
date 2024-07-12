@@ -1,5 +1,7 @@
 # Amazon Sales Analysis
 
+![Amazon Sales Analysis](https://github.com/ArunJakhmola/arunjakhmola.github.io/blob/main/assets/Screenshot%202024-07-12%20134827.png)
+
 ## Project Overview
 
 This project aims to analyze sales data from Amazon to uncover insights and trends. The analysis includes data cleaning, visualization, and extracting key metrics to provide a comprehensive overview of the sales performance.
